@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #ff6600;
+	--secondary: #ffd000;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -12,7 +12,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "helvetica", sans-serif;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 }
 
 main {
-	max-width: 37.5em;
+	max-width: 50em;
 }
 
 p,
