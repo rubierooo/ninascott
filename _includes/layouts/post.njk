@@ -2,23 +2,13 @@
 layout: layouts/base.njk
 section: post
 ---
-
-<article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
-    </small>
-  </p>
-
   {{ layoutContent | safe }}
-
   {% if tags %}
     <p>
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        <small><a href="{{ tagUrl | url }}" >{{ tag }}</a></small>
       {%- endif -%}
     {% endfor %}
     </p>
@@ -27,5 +17,5 @@ section: post
 </article>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/blog/' | url }}">← back to projects</a>
 </nav>

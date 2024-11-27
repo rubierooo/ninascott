@@ -6,10 +6,9 @@
 	<body>
 
 		<header>
-			<a href="{{ '/' | url }}">{{ metadata.title }}</a> (they/them) is an theatre maker, facilitator & educator based in Glasgow.
+			<h1><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>(they/them) is an theatre maker, facilitator & educator based in Glasgow.
 			{% include "components/nav.njk" %}
 		</header>
-
 		<main>
 			{{ layoutContent | safe }}
 		</main>

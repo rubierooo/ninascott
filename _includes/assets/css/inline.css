@@ -30,15 +30,43 @@ p,
 pre,
 code {
 	line-height: 1.5;
+	padding-left: 1em;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--primary);
+a {
+	padding-left: 0.1em;
+	padding-right: 0.1em;
 }
 
 a[href]:not(:hover) {
 	text-decoration: none;
+	color: var(--primary)
+}
+
+a[href]:hover {
+	text-decoration: none;
+	color: var(--background);
+	background-color: var(--primary);
+}
+
+h1 {
+	font-size: inherit;
+	display: inline;
+  font-weight: normal;
+	padding-right:0.3em;
+}
+
+h2, h3, h4, h5 {
+	font-size: inherit;
+	font-weight: normal;
+	text-decoration: underline;
+	text-decoration-color: var(--primary);
+	text-decoration-style: solid;
+	text-decoration-thickness: 2px;
+}
+
+h3 {
+	margin:0;
 }
 
 img {
@@ -47,13 +75,13 @@ img {
 }
 
 header,
-main,
 footer {
 	padding: 1em;
 }
 
 main {
 	padding-bottom: 2em;
+	padding-left: 2em;
 }
 
 main :first-child,
