@@ -4,10 +4,8 @@
 	{% include "components/head.njk" %}
 
 	<body>
-
 		<header>
-			<h1><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>(they/them) is an theatre maker, facilitator & educator based in Glasgow.
-			{% include "components/nav.njk" %}
+			<h1 style="display:inline;"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 		</header>
 		<main>
 			{{ layoutContent | safe }}

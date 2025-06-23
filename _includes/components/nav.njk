@@ -2,8 +2,11 @@
   {% set navPages = collections.all | eleventyNavigation %}
   <ul>
     {%- for entry in navPages %}
-
-      /  <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+      /
+      {% if entry.url == page.url %} <span style="color: var(--background);	background-color: var(--primary);">{{ entry.title }}</span>
+      {% else %} <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
+      {% endif %}
     {%- endfor %}
+    / <a href="mailto:nina@ninamariannescott.com"><span style="unicode-bidi: bidi-override; direction: rtl;">moc.ttocsennairamanin@anin</span></a> /
   </ul>
 </nav>
