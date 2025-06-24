@@ -12,7 +12,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "helvetica", sans-serif;
+	font-family: "Red Hat Text", "helvetica", sans-serif;
 }
 
 body {
@@ -23,15 +23,17 @@ body {
 }
 
 .slideshow {
-	height: 80%;
+	height: 60%;
 	width: 90%;
-	max-width: 50em;
+	max-width: 40em;
 	background-size: cover;
 	background-position: center;
+	float: left;
+	margin-bottom: 1em;
 }
 
 main {
-	max-width: 50em;
+	width: 100%;
 }
 
 p,
