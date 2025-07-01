@@ -16,13 +16,18 @@ eleventyNavigation:
 
 *When Mum goes on a mission of mushroom destruction Kid must befriend the musical spores, ride the mycelial network under the garden and visit 'Chanterelle’s’: a place with no Morel's (that's a mushroom joke) where the floors are sticky, the clientele is icky and the top class cabaret performances leave Kid with more questions than answers.*
 
-**Be More Mushroom** is a raucous, educational stage musical and workshop series about what fungi can teach us about ourselves and the world around us.
+**Be More Mushroom** is a raucous, educational stage musical and workshop series about what fungi can teach us about ourselves and the world around us, developed while Artist in Residence at St. Margaret's House, London. The show has so far been performed in 4 sold-out scratch performances at St. Margaret’s House (March 2023) and 12 sold out mini performances at Kew Gardens Queer Nature After Hours (Nov 2023).
 
-Be More Mushroom was conceived by Nina Scott and created in collaboration with Dan de la Motte and a group of queer mycologists, performers, artists and musicians. This was made possible by funding from Arts Council England and support from St. Margaret's House as part of their Artist in Residence Programme.
+Nina has also delivered 20+ *Be More Mushroom* Educational Workshops since 2023, at venues including Glasgow Science Festival, The Hundred Club, St. Margaret’s House, Kew Gardens and Glastonbury, Shambala & Supernormal Festivals engaging a total of 1,116 LGBTQ+ adults & families to have intergenerational conversations about gender and sexuality using theatre, songwriting, zine making and costume design.
 
-## Timeline:
+## Audience feedback
+- *“This junior cabaret show sparkled with energy, fun and a huge sense of humour. Its cast and accompanying music and songsters were a delight. I learnt a great deal and will never think of fungi in the same way again. Approach with an open mind and respect for difference, and let it touch your heart.”* - Vicky Ireland MBE, FRSA, Chair of *Action for Children's Arts*
+- *"Amazingly brilliant! Queer ecology is such an amazing tool to explain the non binary-ness of life"*
+- *"I want this to go on and on, for more children and parents and people to see it. Amazing work, beautiful creation, music, costumes, humour. Loved it! "*
+- *"Wish I saw this as a child, would have helped a lot with my own gender identity"*
+- *"I want to be more mushroom!"*
 
-## The Team:
+## The Team
 Conceived, Produced and Directed by: Nina Scott
 Written by: Nina Scott and Dan de la Motte
 Performers: Milla Harding, Amiot Hills and Dan de la Motte
