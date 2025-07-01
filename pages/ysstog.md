@@ -3,7 +3,7 @@ title: YSSTOG
 layout: layouts/ysstog.njk
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
 date: 2017-01-01T00:00:00.000Z
-permalink: /ysstog
+permalink: /ysstog.html
 eleventyNavigation:
   key: You Should See the Other Guy
   order: 2
