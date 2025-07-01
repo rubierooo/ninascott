@@ -24,12 +24,14 @@ body {
 
 .slideshow {
 	height: 60%;
-	width: 90%;
+	width: 80%;
 	max-width: 40em;
 	background-size: cover;
 	background-position: center;
 	float: left;
 	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 main {
